@@ -18,8 +18,3 @@ I build scalable web and mobile applications — from concept to production. I f
 
 ---
 
-### Connect with me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portafolio-johan-fausto.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:johanalvarado296@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JohanFausto14)
