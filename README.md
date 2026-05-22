@@ -15,6 +15,3 @@ I build scalable web and mobile applications — from concept to production. I f
 ### Languages and Tools
 
 ![Tools](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,nestjs,express,php,postgres,mongodb,mysql,git,docker,aws,linux,vercel,postman,androidstudio,vue,kotlin,flutter,figma,python,arduino,java,reactnative)
-
----
-
